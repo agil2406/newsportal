@@ -41,6 +41,10 @@ Kemudian, silahkan migrate semua database di project ini dan seeder data dengan 
 ```
 php artisan migrate --seed
 ```
+Lalu mengaktifkan public storage untuk penyimpanan gambar menggunakan artisan command:
+```
+php artisan storage:link
+```
 Lanjut, generate aplikasi key untuk keamanan pada project laravel dengan menggunakan artisan command berikut:
 ```
 php artisan key:generate
