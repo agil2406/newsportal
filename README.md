@@ -1,4 +1,10 @@
-<p align="center"><img src="public/assets/news.png" width="400" alt="Laravel Logo" class="border border-dark border-3"></p>
+<p align="center"><img src="public/assets/news.png" width="400" alt="Laravel Logo">
+</p>
+<hr>
+<p align="center">  
+<img src="public/assets/login.png" width="300" alt="Laravel Logo">
+<img src="public/assets/add.png" width="300" alt="Laravel Logo">
+</p>
 
 ## Aplikasi News Portal 
 NewsPortal merupakan suatu aplikasi berita berbasis website yang dimana terdapat fitur CRUD (Create , Read , Update , Delete) pada pengaplikasiaannya. Beberapa stack yang digunakan pada pembuatan aplikasi ini : LARAVEL 9 dan BOOTSTRAP 5 serta penggunaan MySQL untuk databasenya. 
