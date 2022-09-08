@@ -1,9 +1,9 @@
-<p align="center"><img src="public/assets/news.png" width="400" alt="Laravel Logo">
+<p align="center"><img src="public/assets/news.png" width="400" alt="Laravel Logo" style="border:2px solid black;">
 </p>
 <hr>
 <p align="center">  
-<img src="public/assets/login.png" width="300" alt="Laravel Logo">
-<img src="public/assets/add.png" width="300" alt="Laravel Logo">
+<img src="public/assets/login.png" width="300" alt="Laravel Logo" style="border:1px solid black;">
+<img src="public/assets/add.png" width="300" alt="Laravel Logo" style="border:1px solid black;">
 </p>
 
 ## Aplikasi News Portal 
